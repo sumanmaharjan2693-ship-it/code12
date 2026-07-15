@@ -1,0 +1,16 @@
+body{
+    background-image:url(wild-meadow-flowers-with-copy-space-free-photo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* background-color: aqua; */
+    font-size:40px;
+}
+
+h2{
+    font-size:45px;
+    color:darkturquoise;
+}
+p{
+    font-size:50px;
+    color:cornflowerblue;
+}
