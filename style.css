@@ -1,2 +1,14 @@
-h1{color:blue}
-font-size
+h1{
+    color:blue
+}
+p{
+    font-size:18px; color:#333
+}
+body{
+    background-color:lightcyan
+    margin bottom : 50px;
+}
+table,tr,th,td{
+    border:2px solid;
+    padding:15px;
+}
