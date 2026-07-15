@@ -1,1 +1,27 @@
-a:
+h1{
+    color:chartreuse;
+    font-size:10px;
+}
+
+h2{
+    color:aqua;
+    font-size:10px;
+
+}
+
+h3{
+    color:cornflowerblue;
+    font-size:10px;
+}
+
+h4{
+    color:color-mix(in hsl shorter hue, color percentage, color percentage);
+    font-size:10px;
+}
+ p{
+    color:red;
+    font-size:20px;
+ }
+ .body{
+    background-color:honeydew;
+ }
