@@ -20,9 +20,8 @@ img{
 }
 body{
     /* background-color:lightseagreen; */
-    background-color:url(images.jfif);
+    background-color:gainsboro;
     font-family : 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    color:blueviolet;
     font-size: 20px ;
     background-size:cover;
     background-attachment:fixed;
