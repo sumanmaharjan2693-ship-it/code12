@@ -1,12 +1,12 @@
 
     h1{
-        color:darkorange;
+        color:skyblue;
     text-decoration :none;
     font-size:50px;
     text-align:center;
 }
 p{
-    color:darkred;
+    color:lightpink;
     font-size:35px;
     text-align:center;
 }
@@ -19,7 +19,7 @@ img{
     border-radius:50px;  
 }
 body{
-    background-color:white;
+    background-color:lightslategray;
     font-family : 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 20px ;
     background-size:cover;
@@ -34,12 +34,16 @@ border-radius:50%;
 color:antiquewhite;   
 }
 .menu a {
-color: lightcoral;
-text-decoration:none;
-border:2px solid lightseagreen;
-padding:8px 16px;
-border-radius:4px;
-margin-top: 1rem;
+    display: flex;
+    float:right;
+    color: lightpink;
+    text-decoration:none;
+    border:2px solid lightseagreen;
+    padding:8px 16px;
+    margin-right: 20px;
+    border-radius:4px;
+    justify-content:space-between;
+    gap: 40px;
 }
 a{
   margin-top: 30px;
@@ -49,8 +53,10 @@ h2 {
     text-align: center;
     color: lawngreen;
     margin-bottom: 20px;
-}.form-group {
+}
+.form-group {
     margin-bottom: 15px;
+    text-align:center;
 }
 
 .form-group label {
@@ -58,6 +64,15 @@ h2 {
     font-weight: bold;
     margin-bottom: 5px;
     color:darkblue;
+}
+.head
+{
+    text-align: center;
+}
+.gap{
+    justify-content:space-between;
+    gap:40px;
+    
 }
 
 
