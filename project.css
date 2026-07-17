@@ -16,7 +16,8 @@ img{
     height:150px;
     border-style:solid;
     object-fit:cover;
-    border-radius:50px;  
+    border-radius:50px;
+    justify-content:space-between;  
 }
 body{
     background-color:lightslategray;
@@ -69,11 +70,11 @@ h2 {
 {
     text-align: center;
 }
-.gap{
-    justify-content:space-between;
-    gap:40px;
-    
-}
+.btn{
+          color: aqua;
+          font-family: 'Courier New', Courier, monospace;
+        }
+
 
 
 
