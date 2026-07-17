@@ -36,10 +36,15 @@ color:antiquewhite;
 .menu a {
 color: lightcoral;
 text-decoration:none;
-border:20px solid lightseagreen;
+border:2px solid lightseagreen;
 padding:8px 16px;
 border-radius:4px;
+margin-top: 1rem;
 }
+a{
+  margin-top: 30px;
+}  
+
 h2 {
     text-align: center;
     color: lawngreen;
